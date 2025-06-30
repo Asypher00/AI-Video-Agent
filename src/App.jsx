@@ -1,6 +1,6 @@
 import React from 'react'
 import ManufacturingInspector from './ManufacturingInspector'
-// import "./index.css" ;
+import "./index.css" ;
 
 function App() {
   return (
