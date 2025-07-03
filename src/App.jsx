@@ -1,5 +1,5 @@
 import React from 'react'
-import ManufacturingInspector from './ManufacturingInspector'
+import ManufacturingInspector from './components/ManufacturingInspector'
 import "./index.css" ;
 
 function App() {
